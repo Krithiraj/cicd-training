@@ -8,7 +8,7 @@ public class MyRestApi {
 
     @GetMapping
     public String sayHello(){
-        return "Hello from upgrade";
+        return "Hello, Testing Sprint Book Application";
     }
 
 
